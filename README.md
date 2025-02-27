@@ -6,3 +6,4 @@
 - Horizontal Scroll view
 - Delayed start to an activity
 - Splash Screen
+- Rating Bar
