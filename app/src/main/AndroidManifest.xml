@@ -13,7 +13,7 @@
         android:theme="@style/Theme.SemesterSix"
         tools:targetApi="31">
         <activity
-            android:name=".RatingBarActivity"
+            android:name=".ProgressBarActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,6 +33,11 @@
 
         <activity
             android:name=".SplashScreenActivity"
+            android:exported="false">
+        </activity>
+
+        <activity
+            android:name=".RatingBarActivity"
             android:exported="false">
         </activity>
 

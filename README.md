@@ -7,3 +7,7 @@
 - Delayed start to an activity
 - Splash Screen
 - Rating Bar
+- Progress Bar
+- Threads
+- Exception Handling
+- Inflater
